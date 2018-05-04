@@ -1,0 +1,20 @@
+:root {
+    --main-color: #2f7c9d;
+}
+
+header {
+    background-color: var(--main-color);
+    color: white;
+    font-size: 250%;
+    padding: 60px 0 60px 0;
+    display: flex;
+    justify-content: center;
+}
+
+header > i {
+    margin-right: 20px;
+}
+
+.navbar-buttons > li > a {
+    padding: 30px 0 30px 0;
+}
